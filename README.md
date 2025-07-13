@@ -1,0 +1,2 @@
+# soufo-news
+
